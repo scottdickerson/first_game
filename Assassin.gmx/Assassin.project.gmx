@@ -9,6 +9,7 @@
     <sprite>sprites\Assasin</sprite>
     <sprite>sprites\spr_knight</sprite>
     <sprite>sprites\spr_floor</sprite>
+    <sprite>sprites\Knight</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
