@@ -7,9 +7,19 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\Assasin</sprite>
+    <sprite>sprites\spr_knight</sprite>
+    <sprite>sprites\spr_floor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_assassin</object>
+    <object>objects\obj_knight</object>
+    <object>objects\obj_floor</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
