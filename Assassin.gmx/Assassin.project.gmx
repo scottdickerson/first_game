@@ -20,6 +20,7 @@
     <object>objects\obj_assassin</object>
     <object>objects\obj_knight</object>
     <object>objects\obj_floor</object>
+    <object>objects\obj_knight2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
