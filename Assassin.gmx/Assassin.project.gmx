@@ -10,9 +10,13 @@
     <sprite>sprites\spr_knight</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\Knight</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\Knight_poof_death</sprite>
+=======
+    <sprite>sprites\Aattack1</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
