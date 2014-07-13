@@ -7,6 +7,9 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\Assasin</sprite>
+    <sprite>sprites\assassin_backwards_running</sprite>
+    <sprite>sprites\assassin_idle</sprite>
+    <sprite>sprites\backwards_idle</sprite>
     <sprite>sprites\spr_knight</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\Knight</sprite>
