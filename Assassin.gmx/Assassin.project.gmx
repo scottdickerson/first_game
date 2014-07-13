@@ -12,7 +12,6 @@
     <sprite>sprites\Knight</sprite>
     <sprite>sprites\AssassinAttack</sprite>
     <sprite>sprites\Aattack1</sprite>
-    <sprite>sprites\Aattack2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
