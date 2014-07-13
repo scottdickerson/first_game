@@ -55,7 +55,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>-1</sprite>
+            <sprite>Aattack1</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -296,6 +296,36 @@
           <argument>
             <kind>5</kind>
             <sprite>backwards_idle</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="10" enumb="32">
+      <action>
+        <libid>1</libid>
+        <id>541</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_set</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>Assasin</sprite>
           </argument>
           <argument>
             <kind>0</kind>
